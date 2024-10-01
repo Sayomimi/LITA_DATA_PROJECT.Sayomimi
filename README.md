@@ -14,3 +14,9 @@ The primary source id diamond.cvs which can be downloaded from an open data sour
 - Mircosoft Excel for pivot table and visualization [Download Here](https://www.microsoft.com)
 - SQL - Structured Query Language for querying the data
 - Git Hub for portfolio building
+
+### Data Preparations
+The initial phase of the Data preparation, I performed the following action;
+1. Data loading and inspection
+2. Data dupication
+3. Alter data
