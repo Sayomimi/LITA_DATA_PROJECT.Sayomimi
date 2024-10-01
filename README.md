@@ -9,3 +9,8 @@ This project analyzes diamond characteristics and pricing trends using SQL and E
 
 ### Data Sources
 The primary source id diamond.cvs which can be downloaded from an open data source such as kaggle.
+
+### Tools Used
+- Mircosoft Excel for pivot table and visualization [Download Here](https://www.microsoft.com)
+- SQL - Structured Query Language for querying the data
+- Git Hub for portfolio building
