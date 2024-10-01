@@ -34,5 +34,6 @@ Some basic codes used during my analysis
 ```SQL
 SELECT * FROM diamonds_dup
 WHERE cut LIKE '%Premium%';
-
+```
+---
 ### Data Visualization
