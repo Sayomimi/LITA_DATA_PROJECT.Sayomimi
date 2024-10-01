@@ -30,10 +30,42 @@ EDA includes summarizing
 - Identifying correlations between variables.
 ---
 ### Data Analysis
-Some basic codes used during my analysis
+Codes used during my analysis
 ```SQL
+CREATE DATABASE Diamond_DB;
+USE Diamond_DB;
+--Insert the diamonds_table- -
+
+SELECT * FROM diamonds;
+
+CREATE TABLE temp_table LIKE diamonds;
+INSERT INTO temp_table SELECT * FROM diamonds;
+
+ALTER TABLE temp_table RENAME diamonds_dup;
+
+SELECT * FROM diamonds_dup;
+
+ALTER TABLE diamonds_dup
+CHANGE MyUnknownColumn id INT;
+
+ALTER TABLE diamonds_dup
+ MODIFY price DECIMAL(10, 2);
+
+SELECT 
+MIN(price) AS Minimum_price, 
+carat AS Carat, 
+MAX(price) AS Maximum_price 
+FROM diamonds_dup
+GROUP BY Carat;
+
+SELECT color, cut, AVG(price) AS avg_price
+FROM diamonds_dup
+GROUP BY cut,color
+ORDER BY avg_price;
+
 SELECT * FROM diamonds_dup
-WHERE cut LIKE '%Premium%';
+WHERE carat >= '0.3' AND cut = 'Premium'
+ORDER BY color;
 ```
 ---
 ### Data Visualization
