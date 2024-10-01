@@ -75,17 +75,21 @@ Percentage of Cut
 
 Clarity by Max and Min prices
 
-![Line Chart](https://github.com/user-attachments/assets/ef1998a7-43f1-4bfb-91c4-df451388cfc0)
+![MAX MIN DEPTH:CLARITY](https://github.com/user-attachments/assets/4fba3836-d369-4857-81db-38f39836a543)
 
 Cut by Carat
 
-![Cut by carat](https://github.com/user-attachments/assets/fb48ea39-ab07-4f79-8bc2-69580ba963d0)
+![BAR CHART](https://github.com/user-attachments/assets/0974a303-66aa-4a41-a356-99504c291c14)
 
 Average Price by Color
 
-![Average price by color](https://github.com/user-attachments/assets/be6edfca-2981-4b17-9648-34b6ba5696b3)
+![LINE CHART AVG](https://github.com/user-attachments/assets/1832ca3a-664a-4237-ae7b-c0661f0175b0)
 
 Total Clarity
 
-![Line chart_clarity](https://github.com/user-attachments/assets/dc34c5fb-e330-40ca-b830-2d06f9be7a32)
+![CLARITY LINE CHART](https://github.com/user-attachments/assets/f0ef405b-b468-41ef-8bc9-a1d03d31f1e2)
+
+Depth by Price
+![LINE CHART DEPTH](https://github.com/user-attachments/assets/58c9a07b-cdf3-40b9-bb55-ad7a0fcf3a0c)
+
 
