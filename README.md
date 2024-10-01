@@ -70,17 +70,22 @@ ORDER BY color;
 ---
 ### Data Visualization
 Percentage of Cut
+
 ![Pie chart](https://github.com/user-attachments/assets/0476f19d-1928-4b5c-ab97-39a05b2abb6c)
 
 Clarity by Max and Min prices
+
 ![Line Chart](https://github.com/user-attachments/assets/ef1998a7-43f1-4bfb-91c4-df451388cfc0)
 
 Cut by Carat
+
 ![Cut by carat](https://github.com/user-attachments/assets/fb48ea39-ab07-4f79-8bc2-69580ba963d0)
 
 Average Price by Color
+
 ![Average price by color](https://github.com/user-attachments/assets/be6edfca-2981-4b17-9648-34b6ba5696b3)
 
 Total Clarity
+
 ![Line chart_clarity](https://github.com/user-attachments/assets/dc34c5fb-e330-40ca-b830-2d06f9be7a32)
 
