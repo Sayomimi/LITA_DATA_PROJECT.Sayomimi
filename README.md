@@ -90,6 +90,7 @@ Total Clarity
 ![CLARITY LINE CHART](https://github.com/user-attachments/assets/f0ef405b-b468-41ef-8bc9-a1d03d31f1e2)
 
 Depth by Price
+
 ![LINE CHART DEPTH](https://github.com/user-attachments/assets/58c9a07b-cdf3-40b9-bb55-ad7a0fcf3a0c)
 
 
