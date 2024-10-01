@@ -37,3 +37,6 @@ WHERE cut LIKE '%Premium%';
 ```
 ---
 ### Data Visualization
+![Pie chart](https://github.com/user-attachments/assets/0476f19d-1928-4b5c-ab97-39a05b2abb6c)
+
+
