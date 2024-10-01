@@ -69,7 +69,9 @@ ORDER BY color;
 ```
 ---
 ### Data Visualization
+Count of cut
 ![Pie chart](https://github.com/user-attachments/assets/0476f19d-1928-4b5c-ab97-39a05b2abb6c)
 
+Clarity by Max and Min prices
 ![Line Chart](https://github.com/user-attachments/assets/ef1998a7-43f1-4bfb-91c4-df451388cfc0)
 
