@@ -91,6 +91,7 @@ Total Clarity
 
 Depth by Price
 
-![LINE CHART DEPTH](https://github.com/user-attachments/assets/58c9a07b-cdf3-40b9-bb55-ad7a0fcf3a0c)
+![DEPTH LINE CHART](https://github.com/user-attachments/assets/98ab13f8-ae61-429e-b996-82ee65bdb004)
+
 
 
