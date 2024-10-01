@@ -19,4 +19,12 @@ The primary source id diamond.cvs which can be downloaded from an open data sour
 The initial phase of the Data preparation, I performed the following action;
 1. Data loading and inspection
 2. Data dupication
-3. Alter data
+3. Altering data types
+4. Ensuring data consistency for analysis
+
+### Exploratory Data Analysis
+EDA includes summarizing
+- The attributes
+- Grouping by categories
+- Calculating averages
+- Identifying correlations between variables.
