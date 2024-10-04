@@ -5,7 +5,9 @@
 ### Project Title : Diamond quality and price analysis
 ---
 [Project Overview](#project-overview)
+
 [Data Sources](#data-sources)
+
 [Tools Used](#tools-used)
 
 ### Project Overview
