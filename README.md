@@ -4,6 +4,10 @@
 
 ### Project Title : Diamond quality and price analysis
 ---
+[Project Overview](#project-overview)
+[Data Sources](#data-sources)
+[Tools Used](#tools-used)
+
 ### Project Overview
 This project analyzes diamond characteristics and pricing trends using SQL and Excel to uncover relationships quality attributes and prices.
 -
