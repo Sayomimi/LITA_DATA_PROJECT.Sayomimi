@@ -4,17 +4,36 @@
 
 ### Project Title : Diamond quality and price analysis
 ---
+
+### Outline:
+
 [Project Overview](#project-overview)
+
 
 [Data Sources](#data-sources)
 
+
 [Tools Used](#tools-used)
+
+
+[Data Preparations](#data-preparations)
+
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+
+[Data Analysis](#data-analysis)
+
+
+[Data Visualization](#data-visualization)
+
+---
 
 ### Project Overview
 This project analyzes diamond characteristics and pricing trends using SQL and Excel to uncover relationships quality attributes and prices.
 -
 ### Data Sources
-The primary source id diamond.cvs which can be downloaded from an open data source such as kaggle.
+The primary source is diamond.cvs which can be downloaded from an open data source such as kaggle.
 ---
 ### Tools Used
 - Mircosoft Excel for pivot table and visualization [Download Here](https://www.microsoft.com)
