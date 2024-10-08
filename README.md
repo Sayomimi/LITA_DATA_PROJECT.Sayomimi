@@ -43,7 +43,7 @@ The primary source is diamond.cvs which can be downloaded from an open data sour
 ### Data Preparations
 The initial phase of the Data preparation, I performed the following action;
 1. Data loading and inspection
-2. Data dupication
+2. Data duplication
 3. Altering data types
 4. Ensuring data consistency for analysis
 ---
